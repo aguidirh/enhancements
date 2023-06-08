@@ -19,7 +19,7 @@ api-approvers:
 creation-date: 2023-06-08
 last-updated: 2023-06-08
 tracking-link:
-  - [CFE-818](https://issues.redhat.com/browse/CFE-818)
+  - https://issues.redhat.com/browse/CFE-818
 see-also:
   - https://docs.google.com/document/d/1bDshk_vhVNYDRj3v7AfhbF7dEx9OQEr7Vg9xf_hAzqg/edit# (for comments)
   - https://miro.com/app/board/uXjVMcD2KXk=/ (Event storming)
