@@ -16,6 +16,7 @@ approvers:
 
 api-approvers:
   - "None"
+
 creation-date: 2023-06-08
 last-updated: 2023-06-08
 tracking-link:
@@ -492,6 +493,18 @@ please be sure to include in the graduation criteria.**
 
 **Examples**: These are generalized examples to consider, in addition
 to the aforementioned [maturity levels][maturity-levels].
+
+#### Value mapping (feature roadmap)
+
+![](assets/oc-mirror-value-slicing.png)
+
+The diagram above is the proposed MVP and feature release
+
+- MVP: aims at refactoring MirrorToDisk and DiskToMirror for the OCP releases
+- Dev Preview 1: aims at adding to the above flows the operator catalog and additional images mirroring
+- Dev Preview 2: aims at creating a pruning/delete feature
+- Dev Preview 3: aims at creating all the relevant tooling to help customers achieve mirroring according to OLM patterns, multi-arch and helm support
+
 
 #### Dev Preview -> Tech Preview
 
